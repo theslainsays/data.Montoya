@@ -1,4 +1,6 @@
+HOW TO RUN -
 
+This program uses Python, which is preinstalled in OS X.  To use it, save
 
 
 

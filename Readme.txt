@@ -5,10 +5,10 @@ To use it, download and save the exercise1.py and data.Montoya.txt files in a di
 
 NOTE -
 
-This is the first time I have ever posted instructions on how to run code. If any problems arise, please, let me know!
+This is the first time I have ever posted instructions on how to run code. If any problems arise, please, let me know! I have uploaded a picture of the resulting graph (data.Montoya graph.png) if you simply want to see the results
 
 
-# FINAL THOUGHTS (reposted)
+# FINAL THOUGHTS (reposted from exercise1.py)
 
 # - Findings
 

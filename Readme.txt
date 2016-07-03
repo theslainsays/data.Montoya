@@ -1,10 +1,11 @@
 HOW TO RUN -
 
-This program uses Python, which is preinstalled in OS X.  To use it, save
+This program uses Python, which is preinstalled in OS X. The following instructions are for OS X ONLY:
+To use it, download and save the exercise1.py and data.Montoya.txt files in a directory of your chosing. Next, open Terminal and go to its location (EXAMPLE: cd documents/whereyou placedthefilesinafolder). Then, type in the terminal "python exercise1.py" (no quotes). It should work.
 
+NOTE -
 
-
-
+This is the first time I have ever posted instructions on how to run code. If any problems arise, please, let me know!
 
 
 # FINAL THOUGHTS (reposted)
